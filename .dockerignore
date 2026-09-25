@@ -1,0 +1,24 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+.venv
+venv
+instance
+*.db
+*.sqlite
+*.sqlite3
+
+scratch
+tests
+README.md
+render.yaml
+CDC_lab.xlsx
+DAILY PERFORMANCE REPORT (Responses).xlsx
